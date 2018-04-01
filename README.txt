@@ -7,10 +7,10 @@ For now please enjoy this lovely ascii art:
 
 HAPPY EASTER - hopefully I update this 
 
-  (\"/)   \n
-  (/|\)   \n
-    |     \n
-    |     \n
+  (\"/)   
+  (/|\)   
+    |     
+    |     
  
  
  The art is from http://www.chris.com/ascii/ 
