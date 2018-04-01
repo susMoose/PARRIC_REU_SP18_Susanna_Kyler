@@ -1,2 +1,3 @@
 # PARRIC_REU_SP18_Susanna_Kyler
-REU 
+
+This is where I intend to put stuff
