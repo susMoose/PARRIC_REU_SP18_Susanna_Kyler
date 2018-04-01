@@ -6,35 +6,11 @@ Haven't found all of my files yet, and am not totally sure which ones are which 
 For now please enjoy this lovely ascii art:
 
 HAPPY EASTER - hopefully I update this 
-     __            /^\
-    .'  \          / :.\   
-   /     \         | :: \ 
-  /   /.  \       / ::: | 
- |    |::. \     / :::'/  
- |   / \::. |   / :::'/
- `--`   \'  `~~~ ':'/`
-         /         (    
-        /   0 _ 0   \   
-      \/     \_/     \/  
-    -== '.'   |   '.' ==-   
-      /\    '-^-'    /\    
-        \   _   _   /             
-       .-`-((\o/))-`-.   
-  _   /     //^\\     \   _    
-."o".(    , .:::. ,    )."o".  
-|o  o\\    \:::::/    //o  o| 
- \    \\   |:::::|   //    /   
-  \    \\__/:::::\__//    /   
-   \ .:.\  `':::'`  /.:. /      
-    \':: |_       _| ::'/  
- jgs `---` `"""""` `---`        
- 
- 
- 
-  (\"/)
-  (/|\)
-    |
-    |
+
+  (\"/)   \n
+  (/|\)   \n
+    |     \n
+    |     \n
  
  
  The art is from http://www.chris.com/ascii/ 
